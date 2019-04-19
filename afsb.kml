@@ -1,0 +1,1915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>test KML.xlsx</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 3<br>NO_: 3<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: PT 26861, HS(D) 119987, MUKIM BATU, KUALA LUMPUR <br>(71,292 METER SQUARE)<br>LABEL: MUKIM BATU<br>LAT: 3.21086<br>LONG: 101.682594<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>3.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>3</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>PT 26861, HS(D) 119987, MUKIM BATU, KUALA LUMPUR 
+(71,292 METER SQUARE)</value>
+        </Data>
+        <Data name="LABEL">
+          <value>MUKIM BATU</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.21086</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.682594</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.682594,3.21086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 26<br>NO_: 26<br>AREA: PH02<br>STATE: ROMPIN<br>ADDRESS: TAPAK PELUPUSAN ROMPIN, KG. FERI, 26800 KUALA ROMPIN, PAHANG<br>LABEL: TAPAK PELUPUSAN ROMPIN<br>LAT: 2.771435<br>LONG: 103.491977<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>26.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>26</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH02</value>
+        </Data>
+        <Data name="STATE">
+          <value>ROMPIN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>TAPAK PELUPUSAN ROMPIN, KG. FERI, 26800 KUALA ROMPIN, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>TAPAK PELUPUSAN ROMPIN</value>
+        </Data>
+        <Data name="LAT">
+          <value>2.771435</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.491977</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.491977,2.771435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 30<br>NO_: 30<br>AREA: PH03<br>STATE: TEMERLOH<br>ADDRESS: NO. 31914, LOT 11999, JALAN INDUSTRI 6, TAMAN PERINDUSTRIAN TEMERLOH, 28400 MENTAKAB, PAHANG<br>LABEL: TAMAN PERINDUSTRIAN TEMERLOH<br>LAT: 3.449634<br>LONG: 102.361173<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>30.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>30</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>TEMERLOH</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>NO. 31914, LOT 11999, JALAN INDUSTRI 6, TAMAN PERINDUSTRIAN TEMERLOH, 28400 MENTAKAB, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>TAMAN PERINDUSTRIAN TEMERLOH</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.449634</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.361173</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.361173,3.449634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 32<br>NO_: 32<br>AREA: PH03<br>STATE: MARAN<br>ADDRESS: BATU 55, JALAN SUNGAI JERIK, 26500 MARAN, PAHANG<br>LABEL: BATU 55, JALAN SUNGAI JERIK<br>LAT: 3.59362<br>LONG: 102.754765<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>32.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>32</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>MARAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>BATU 55, JALAN SUNGAI JERIK, 26500 MARAN, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>BATU 55, JALAN SUNGAI JERIK</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.59362</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.754765</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.754765,3.59362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 34<br>NO_: 34<br>AREA: PH03<br>STATE: JENGKA<br>ADDRESS: KAWASAN INDUSTRI JENGKA, BANDAR JENGKA, PAHANG DARUL MAKMUR<br>LABEL: KAWASAN INDUSTRI JENGKA<br>LAT: 3.834833<br>LONG: 102.569333<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>34.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>34</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>JENGKA</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>KAWASAN INDUSTRI JENGKA, BANDAR JENGKA, PAHANG DARUL MAKMUR</value>
+        </Data>
+        <Data name="LABEL">
+          <value>KAWASAN INDUSTRI JENGKA</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.834833</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.569333</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.569333,3.834833,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 36<br>NO_: 36<br>AREA: PH03<br>STATE: JERANTUT<br>ADDRESS: LOT 15521, BATU 42, JALAN BENTA, JERANTUT, PAHANG<br>LABEL: BATU 42, JALAN BENTA<br>LAT: 3.9395<br>LONG: 102.387583<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>36.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>36</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>JERANTUT</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LOT 15521, BATU 42, JALAN BENTA, JERANTUT, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>BATU 42, JALAN BENTA</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.9395</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.387583</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.387583,3.9395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 38<br>NO_: 38<br>AREA: PH03<br>STATE: BERA<br>ADDRESS: LOT 4227, MUKIM TRIAN, KERAYONG, DAERAH BERA, PAHANG<br>LABEL: MUKIM TRIAN, KERAYONG<br>LAT: 3.273683<br>LONG: 102.477378<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>38.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>38</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>BERA</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LOT 4227, MUKIM TRIAN, KERAYONG, DAERAH BERA, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>MUKIM TRIAN, KERAYONG</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.273683</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.477378</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.477378,3.273683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 40<br>NO_: 40<br>AREA: PH04<br>STATE: BENTONG<br>ADDRESS: JALAN CHAMANG, 28700 BENTONG, PAHANG<br>LABEL: JALAN CHAMANG<br>LAT: 3.527647<br>LONG: 101.898651<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>40.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>40</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>BENTONG</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>JALAN CHAMANG, 28700 BENTONG, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN CHAMANG</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.527647</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.898651</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.898651,3.527647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 43<br>NO_: 43<br>AREA: PH04<br>STATE: RAUB<br>ADDRESS: KM8, JALAN CHEROH, RAUB, PAHANG (BERDEKATAN DGN TP CHEROH)<br>LABEL: JALAN CHEROH, RAUB<br>LAT: 3.889597<br>LONG: 101.819097<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>43.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>43</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>RAUB</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>KM8, JALAN CHEROH, RAUB, PAHANG (BERDEKATAN DGN TP CHEROH)</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN CHEROH, RAUB</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.889597</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.819097</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.819097,3.889597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 45<br>NO_: 45<br>AREA: PH04<br>STATE: LIPIS<br>ADDRESS: LOT 10662, SEKSYEN 12, TEMPAT TEMPOYANG, BANDAR KUALA LIPIS, PAHANG<br>LABEL: SEKSYEN 12,BANDAR KUALA LIPIS<br>LAT: 4.170561<br>LONG: 102.03655<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>45.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>45</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>LIPIS</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LOT 10662, SEKSYEN 12, TEMPAT TEMPOYANG, BANDAR KUALA LIPIS, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>SEKSYEN 12,BANDAR KUALA LIPIS</value>
+        </Data>
+        <Data name="LAT">
+          <value>4.170561</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.03655</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.03655,4.170561,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DEPOT</name>
+      <description><![CDATA[OBJECTID *: 48<br>NO_: 48<br>AREA: PH04<br>STATE: CAMERON HIGHLAND<br>ADDRESS: JALAN TENGKOLOK, TANAH RATA, CAMERON HIGHLANDS<br>LABEL: JALAN TENGKOLOK, TANAH RATA<br>LAT: 4.47675<br>LONG: 101.378889<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>48.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>48</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>CAMERON HIGHLAND</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>JALAN TENGKOLOK, TANAH RATA, CAMERON HIGHLANDS</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN TENGKOLOK, TANAH RATA</value>
+        </Data>
+        <Data name="LAT">
+          <value>4.47675</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.378889</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.378889,4.47675,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[DEPOT & WORKSHOP]]></name>
+      <description><![CDATA[OBJECTID *: 14<br>NO_: 14<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: LOT 542, MUKIM SUNGAI KARANG, BUKIT GEMPU, KUANTAN, PAHANG<br>LABEL: SUNGAI KARANG<br>LAT: 3.923059<br>LONG: 103.35209<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>14.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>14</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LOT 542, MUKIM SUNGAI KARANG, BUKIT GEMPU, KUANTAN, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>SUNGAI KARANG</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.923059</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.35209</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.35209,3.923059,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[DEPOT & WORKSHOP]]></name>
+      <description><![CDATA[OBJECTID *: 24<br>NO_: 24<br>AREA: PH02<br>STATE: PEKAN<br>ADDRESS: TAPAK PELUPUSAN PEKAN, LOT PTP1-1823 & LOT PT6991, KM4, JALAN PEKAN NENASI, 26600, PEKAN PAHANG<br>LABEL: TAPAK PELUPUSAN PEKAN<br>LAT: 3.449272<br>LONG: 103.419979<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>24.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>24</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH02</value>
+        </Data>
+        <Data name="STATE">
+          <value>PEKAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value><![CDATA[TAPAK PELUPUSAN PEKAN, LOT PTP1-1823 & LOT PT6991, KM4, JALAN PEKAN NENASI, 26600, PEKAN PAHANG]]></value>
+        </Data>
+        <Data name="LABEL">
+          <value>TAPAK PELUPUSAN PEKAN</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.449272</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.419979</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.419979,3.449272,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAIN OFFICE</name>
+      <description><![CDATA[OBJECTID *: 1<br>NO_: 1<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: NO. 26, JALAN UDANG HARIMAU 2, MEDAN NIAGA KEPONG, 51200, KUALA LUMPUR<br>LABEL: JALAN UDANG HARIMAU 2<br>LAT: 3.191531<br>LONG: 101.65943<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>1.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>1</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>NO. 26, JALAN UDANG HARIMAU 2, MEDAN NIAGA KEPONG, 51200, KUALA LUMPUR</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN UDANG HARIMAU 2</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.191531</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.65943</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.65943,3.191531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAIN OFFICE</name>
+      <description><![CDATA[OBJECTID *: 11<br>NO_: 11<br>AREA: WPPJ<br>STATE: WP PUTRAJAYA<br>ADDRESS: NO. 51A, 51B & 51C, JALAN DIPLOMATIK, PRESINT 15, 62050 PUTRAJAYA<br>LABEL: PRESINT 15<br>LAT: 2.944824<br>LONG: 101.722856<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>11.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>11</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPPJ</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP PUTRAJAYA</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value><![CDATA[NO. 51A, 51B & 51C, JALAN DIPLOMATIK, PRESINT 15, 62050 PUTRAJAYA]]></value>
+        </Data>
+        <Data name="LABEL">
+          <value>PRESINT 15</value>
+        </Data>
+        <Data name="LAT">
+          <value>2.944824</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.722856</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.722856,2.944824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAIN OFFICE</name>
+      <description><![CDATA[OBJECTID *: 13<br>NO_: 13<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: B 18, B20 & B22, TINGKAT 1 & 2, JALAN IM 3/10, B.I.M POINT, INDERA MAHKOTA, 25200 KUANTAN, PAHANG<br>LABEL: JALAN IM 3/10, B.I.M POINT<br>LAT: 3.82296<br>LONG: 103.278989<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>13.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>13</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value><![CDATA[B 18, B20 & B22, TINGKAT 1 & 2, JALAN IM 3/10, B.I.M POINT, INDERA MAHKOTA, 25200 KUANTAN, PAHANG]]></value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN IM 3/10, B.I.M POINT</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.82296</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.278989</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.278989,3.82296,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAIN OFFICE</name>
+      <description><![CDATA[OBJECTID *: 22<br>NO_: 22<br>AREA: PH02<br>STATE: PEKAN<br>ADDRESS: UNIT NO. G-02, 1ST FLOOR, BANGUNAN UMNO PEKAN, JALAN TENG QUEE, 26600 PEKAN, PAHANG DARUL MAKMUR<br>LABEL: BANGUNAN UMNO PEKAN<br>LAT: 3.491245<br>LONG: 103.392537<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>22.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>22</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH02</value>
+        </Data>
+        <Data name="STATE">
+          <value>PEKAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>UNIT NO. G-02, 1ST FLOOR, BANGUNAN UMNO PEKAN, JALAN TENG QUEE, 26600 PEKAN, PAHANG DARUL MAKMUR</value>
+        </Data>
+        <Data name="LABEL">
+          <value>BANGUNAN UMNO PEKAN</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.491245</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.392537</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.392537,3.491245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAIN OFFICE</name>
+      <description><![CDATA[OBJECTID *: 29<br>NO_: 29<br>AREA: PH03<br>STATE: TEMERLOH<br>ADDRESS: LOT 12 & 14, TINGKAT 2, JALAN PAK SAKO 3, BANDAR SEMANTAN, 28000 TEMERLOH, PAHANG<br>LABEL: JALAN PAK SAKO 3<br>LAT: 3.451259<br>LONG: 102.416709<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>29.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>29</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>TEMERLOH</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value><![CDATA[LOT 12 & 14, TINGKAT 2, JALAN PAK SAKO 3, BANDAR SEMANTAN, 28000 TEMERLOH, PAHANG]]></value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN PAK SAKO 3</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.451259</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.416709</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.416709,3.451259,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MAIN OFFICE</name>
+      <description><![CDATA[OBJECTID *: 39<br>NO_: 39<br>AREA: PH04<br>STATE: BENTONG<br>ADDRESS: TINGKAT 1, BANGUNAN TABUNG HAJI, JALAN AH PENG, 28700 BENTONG, PAHANG<br>LABEL: BANGUNAN TABUNG HAJI<br>LAT: 3.522434<br>LONG: 101.908006<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>39.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>39</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>BENTONG</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>TINGKAT 1, BANGUNAN TABUNG HAJI, JALAN AH PENG, 28700 BENTONG, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>BANGUNAN TABUNG HAJI</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.522434</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.908006</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.908006,3.522434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 2<br>NO_: 2<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: LOT 76, SEKSYEN 40, JALAN BUNUS 5, KUALA LUMPUR<br>LABEL: JALAN BUNUS 5<br>LAT: 3.1547<br>LONG: 101.698029<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>2.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>2</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LOT 76, SEKSYEN 40, JALAN BUNUS 5, KUALA LUMPUR</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN BUNUS 5</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.1547</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.698029</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.698029,3.1547,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 5<br>NO_: 5<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: JALAN LEDANG, OFF JALAN DUTA<br>LABEL: JALAN LEDANG<br>LAT: 3.15418<br>LONG: 101.674927<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>5.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>5</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>JALAN LEDANG, OFF JALAN DUTA</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN LEDANG</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.15418</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.674927</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.674927,3.15418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 6<br>NO_: 6<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: LOT 2880, SEKSYEN 41, JALAN DEWAN SULTAN SULAIMAN/ KAMPUNG PERIUK, KAMPUNG BARU, KUALA LUMPUR (1,442 SQ FT)<br>LABEL: KAMPUNG BARU<br>LAT: 3.161819<br>LONG: 101.700195<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>6.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>6</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LOT 2880, SEKSYEN 41, JALAN DEWAN SULTAN SULAIMAN/ KAMPUNG PERIUK, KAMPUNG BARU, KUALA LUMPUR (1,442 SQ FT)</value>
+        </Data>
+        <Data name="LABEL">
+          <value>KAMPUNG BARU</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.161819</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.700195</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.700195,3.161819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 7<br>NO_: 7<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: LOT 1009, SEKSYEN 46, BANDAR KUALA LUMPUR (5,250 SQ FT)<br>LABEL: JALAN TIONG NAM 3<br>LAT: 3.164208<br>LONG: 101.693472<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>7.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>7</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LOT 1009, SEKSYEN 46, BANDAR KUALA LUMPUR (5,250 SQ FT)</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN TIONG NAM 3</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.164208</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.693472</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.693472,3.164208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 8<br>NO_: 8<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: JALAN SAN PENG<br>LABEL: JALAN SAN PENG<br>LAT: 3.13439<br>LONG: 101.707762<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>8.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>8</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>JALAN SAN PENG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN SAN PENG</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.13439</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.707762</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.707762,3.13439,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 9<br>NO_: 9<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: VELEDROME BANDAR TUN RAZAK, JALAN TEMPLER<br>LABEL: VELEDROME BTR<br>LAT: 3.106873<br>LONG: 101.730447<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>9.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>9</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>VELEDROME BANDAR TUN RAZAK, JALAN TEMPLER</value>
+        </Data>
+        <Data name="LABEL">
+          <value>VELEDROME BTR</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.106873</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.730447</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.730447,3.106873,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 10<br>NO_: 10<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: JALAN YEW, OFF JALAN TUN RAZAK<br>LABEL: JALAN YEW<br>LAT: 3.135537<br>LONG: 101.718262<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>10.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>10</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>JALAN YEW, OFF JALAN TUN RAZAK</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN YEW</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.135537</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.718262</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.718262,3.135537,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 15<br>NO_: 15<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: GERAI KELENTONG, ARKIB SERI TERUNTUM, 25000 KUANTAN, PAHANG<br>LABEL: ARKIB SERI TERUNTUM<br>LAT: 3.803483<br>LONG: 103.325443<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>15.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>15</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>GERAI KELENTONG, ARKIB SERI TERUNTUM, 25000 KUANTAN, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>ARKIB SERI TERUNTUM</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.803483</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.325443</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.325443,3.803483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 16<br>NO_: 16<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: PADANG PERMAINAN LORONG SEKILAU 28@20, MUKIM KUALA KUANTAN, DAERAH KUANTAN<br>LABEL: LORONG SEKILAU 28<br>LAT: 3.823347<br>LONG: 103.324922<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>16.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>16</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>PADANG PERMAINAN LORONG SEKILAU 28@20, MUKIM KUALA KUANTAN, DAERAH KUANTAN</value>
+        </Data>
+        <Data name="LABEL">
+          <value>LORONG SEKILAU 28</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.823347</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.324922</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.324922,3.823347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 17<br>NO_: 17<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: PADANG PERMAINAN LORONG PANDAN DAMAI 2/3, MUKIM KUALA KUANTAN, DAERAH KUANTAN (TAMAN TAS)<br>LABEL: LORONG PANDAN DAMAI 2/3<br>LAT: 3.770973<br>LONG: 103.232882<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>17.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>17</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>PADANG PERMAINAN LORONG PANDAN DAMAI 2/3, MUKIM KUALA KUANTAN, DAERAH KUANTAN (TAMAN TAS)</value>
+        </Data>
+        <Data name="LABEL">
+          <value>LORONG PANDAN DAMAI 2/3</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.770973</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.232882</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.232882,3.770973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 18<br>NO_: 18<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: PADANG PERMAINAN LORONG BUKIT SETONGKOL BARU 5, TAMAN FAIRMOUNT, KUANTAN<br>LABEL: LORONG BUKIT SETONGKOL BARU 5<br>LAT: 3.816546<br>LONG: 103.308135<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>18.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>18</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>PADANG PERMAINAN LORONG BUKIT SETONGKOL BARU 5, TAMAN FAIRMOUNT, KUANTAN</value>
+        </Data>
+        <Data name="LABEL">
+          <value>LORONG BUKIT SETONGKOL BARU 5</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.816546</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.308135</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.308135,3.816546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 19<br>NO_: 19<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: TANAH KOSONG, LORONG KUBANG BUAYA 39, MUKIM KUANTAN, KUANTAN<br>LABEL: LORONG KUBANG BUAYA 39<br>LAT: 3.821821<br>LONG: 103.34536<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>19.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>19</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>TANAH KOSONG, LORONG KUBANG BUAYA 39, MUKIM KUANTAN, KUANTAN</value>
+        </Data>
+        <Data name="LABEL">
+          <value>LORONG KUBANG BUAYA 39</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.821821</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.34536</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.34536,3.821821,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 20<br>NO_: 20<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: UPTOWN AREA, PANTAI TELUK CEMPEDAK, KUANTAN<br>LABEL: PANTAI TELUK CEMPEDAK<br>LAT: 3.813571<br>LONG: 103.371529<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>20.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>20</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>UPTOWN AREA, PANTAI TELUK CEMPEDAK, KUANTAN</value>
+        </Data>
+        <Data name="LABEL">
+          <value>PANTAI TELUK CEMPEDAK</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.813571</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.371529</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.371529,3.813571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 21<br>NO_: 21<br>AREA: PH01<br>STATE: KUANTAN<br>ADDRESS: PADANG MPK 2, KUANTAN<br>LABEL: PADANG MPK 2<br>LAT: 3.814<br>LONG: 103.32175<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>21.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>21</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH01</value>
+        </Data>
+        <Data name="STATE">
+          <value>KUANTAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>PADANG MPK 2, KUANTAN</value>
+        </Data>
+        <Data name="LABEL">
+          <value>PADANG MPK 2</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.814</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.32175</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.32175,3.814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 23<br>NO_: 23<br>AREA: PH02<br>STATE: PEKAN<br>ADDRESS: PEN-03 (BANGUNAN SUB-STATION, TNB), BERSEBELAHAN ARKED TERMINAL BAS PEKAN, 26600 PEKAN, PAHANG<br>LABEL: ARKED TERMINAL BAS PEKAN<br>LAT: 3.490036<br>LONG: 103.396858<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>23.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>23</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH02</value>
+        </Data>
+        <Data name="STATE">
+          <value>PEKAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>PEN-03 (BANGUNAN SUB-STATION, TNB), BERSEBELAHAN ARKED TERMINAL BAS PEKAN, 26600 PEKAN, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>ARKED TERMINAL BAS PEKAN</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.490036</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.396858</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.396858,3.490036,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 27<br>NO_: 27<br>AREA: PH02<br>STATE: ROMPIN<br>ADDRESS: GERAI PUSAT PERTUBUHAN DESA, TANJUNG GEMUK, 26800 ROMPIN, PAHANG<br>LABEL: TANJUNG GEMUK<br>LAT: 2.660267<br>LONG: 103.621301<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>27.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>27</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH02</value>
+        </Data>
+        <Data name="STATE">
+          <value>ROMPIN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>GERAI PUSAT PERTUBUHAN DESA, TANJUNG GEMUK, 26800 ROMPIN, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>TANJUNG GEMUK</value>
+        </Data>
+        <Data name="LAT">
+          <value>2.660267</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.621301</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.621301,2.660267,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 41<br>NO_: 41<br>AREA: PH04<br>STATE: BENTONG<br>ADDRESS: STOR MAJLIS DAERAH BAHAGIAN KARAK, BENTONG, PAHANG<br>LABEL: MAJLIS DAERAH BAHAGIAN KARAK<br>LAT: 3.413792<br>LONG: 102.033558<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>41.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>41</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>BENTONG</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>STOR MAJLIS DAERAH BAHAGIAN KARAK, BENTONG, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>MAJLIS DAERAH BAHAGIAN KARAK</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.413792</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.033558</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.033558,3.413792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MUSTERING POINT</name>
+      <description><![CDATA[OBJECTID *: 46<br>NO_: 46<br>AREA: PH04<br>STATE: LIPIS<br>ADDRESS: STOR PASAR BENTA, KUALA LIPIS, PAHANG<br>LABEL: PASAR BENTA<br>LAT: 4.017222<br>LONG: 101.9675<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>46.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>46</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>LIPIS</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>STOR PASAR BENTA, KUALA LIPIS, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>PASAR BENTA</value>
+        </Data>
+        <Data name="LAT">
+          <value>4.017222</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.9675</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.9675,4.017222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 25<br>NO_: 25<br>AREA: PH02<br>STATE: ROMPIN<br>ADDRESS: NO. 2, JALAN SEPAKAT INDAH UTAMA, KUALA ROMPIN, 26800 PAHANG<br>LABEL: KUALA ROMPIN<br>LAT: 2.785942<br>LONG: 103.492904<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>25.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>25</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH02</value>
+        </Data>
+        <Data name="STATE">
+          <value>ROMPIN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>NO. 2, JALAN SEPAKAT INDAH UTAMA, KUALA ROMPIN, 26800 PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>KUALA ROMPIN</value>
+        </Data>
+        <Data name="LAT">
+          <value>2.785942</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.492904</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.492904,2.785942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 28<br>NO_: 28<br>AREA: PH02<br>STATE: BANDAR MUADZAM SHAH<br>ADDRESS: MM163, TINGKAT ATAS, JALAN MEDAN MEWAH 11, 26700 MUADZAM SHAH,PAHANG DARUL MAKMUR<br>LABEL: JALAN MEDAN MEWAH 11, MUADZAM SHAH<br>LAT: 3.054509<br>LONG: 103.087446<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>28.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>28</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH02</value>
+        </Data>
+        <Data name="STATE">
+          <value>BANDAR MUADZAM SHAH</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>MM163, TINGKAT ATAS, JALAN MEDAN MEWAH 11, 26700 MUADZAM SHAH,PAHANG DARUL MAKMUR</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN MEDAN MEWAH 11, MUADZAM SHAH</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.054509</value>
+        </Data>
+        <Data name="LONG">
+          <value>103.087446</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          103.087446,3.054509,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 31<br>NO_: 31<br>AREA: PH03<br>STATE: MARAN<br>ADDRESS: NO. 21, TINGKAT ATAS, LORONG IMPIAN 1, TAMAN MARAN IMPIAN, 26500, MARAN, PAHANG<br>LABEL: TAMAN MARAN IMPIAN<br>LAT: 3.590288<br>LONG: 102.790359<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>31.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>31</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>MARAN</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>NO. 21, TINGKAT ATAS, LORONG IMPIAN 1, TAMAN MARAN IMPIAN, 26500, MARAN, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>TAMAN MARAN IMPIAN</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.590288</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.790359</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.790359,3.590288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 33<br>NO_: 33<br>AREA: PH03<br>STATE: JENGKA<br>ADDRESS: PT 16633, DAERAH MARAN, MUKIM CHENOR, BANDAR PUSAT JENGKA, 26400 PAHANG<br>LABEL: BANDAR PUSAT JENGKA<br>LAT: 3.704125<br>LONG: 102.542328<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>33.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>33</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>JENGKA</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>PT 16633, DAERAH MARAN, MUKIM CHENOR, BANDAR PUSAT JENGKA, 26400 PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value>BANDAR PUSAT JENGKA</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.704125</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.542328</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.542328,3.704125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 35<br>NO_: 35<br>AREA: PH03<br>STATE: JERANTUT<br>ADDRESS: NO. 15, TINGKAT BAWAH, JALAN PINE 1, 27000 JERANTUT, PAHANG DARUL MAKMUR<br>LABEL: JALAN PINE 1,JERANTUT<br>LAT: 3.935369<br>LONG: 102.37449<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>35.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>35</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>JERANTUT</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>NO. 15, TINGKAT BAWAH, JALAN PINE 1, 27000 JERANTUT, PAHANG DARUL MAKMUR</value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN PINE 1,JERANTUT</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.935369</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.37449</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.37449,3.935369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 37<br>NO_: 37<br>AREA: PH03<br>STATE: BERA<br>ADDRESS: NO. 8, JALAN MERBAU INDAH 3, TAMAN MERBAU INDAH, 28200 BANDAR BERA, PAHANG <br>LABEL: JALAN MERBAU INDAH 3<br>LAT: 3.265231<br>LONG: 102.433411<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>37.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>37</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH03</value>
+        </Data>
+        <Data name="STATE">
+          <value>BERA</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>NO. 8, JALAN MERBAU INDAH 3, TAMAN MERBAU INDAH, 28200 BANDAR BERA, PAHANG </value>
+        </Data>
+        <Data name="LABEL">
+          <value>JALAN MERBAU INDAH 3</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.265231</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.433411</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.433411,3.265231,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 42<br>NO_: 42<br>AREA: PH04<br>STATE: RAUB<br>ADDRESS: PT NO. 23840, JALAN BUKIT IDAMAN,  27600 RAUB, PAHANG<br>LABEL:  JALAN BUKIT IDAMAN,RAUB<br>LAT: 3.797823<br>LONG: 101.870308<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>42.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>42</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>RAUB</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>PT NO. 23840, JALAN BUKIT IDAMAN,  27600 RAUB, PAHANG</value>
+        </Data>
+        <Data name="LABEL">
+          <value> JALAN BUKIT IDAMAN,RAUB</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.797823</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.870308</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.870308,3.797823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 44<br>NO_: 44<br>AREA: PH04<br>STATE: LIPIS<br>ADDRESS: NO. 27, GROUND FLOOR, LORONG BBKL 2/2, BANDAR BARU KUALA LIPIS, 27200 KUALA LIPIS, PAHANG DARUL MAKMUR<br>LABEL: LORONG BBKL 2/2<br>LAT: 4.18515<br>LONG: 102.058218<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>44.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>44</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>LIPIS</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>NO. 27, GROUND FLOOR, LORONG BBKL 2/2, BANDAR BARU KUALA LIPIS, 27200 KUALA LIPIS, PAHANG DARUL MAKMUR</value>
+        </Data>
+        <Data name="LABEL">
+          <value>LORONG BBKL 2/2</value>
+        </Data>
+        <Data name="LAT">
+          <value>4.18515</value>
+        </Data>
+        <Data name="LONG">
+          <value>102.058218</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          102.058218,4.18515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SITE OFFICE</name>
+      <description><![CDATA[OBJECTID *: 47<br>NO_: 47<br>AREA: PH04<br>STATE: CAMERON HIGHLAND<br>ADDRESS: 81B RUMAH KEDAI, BANGUNAN JUTA VILLA, JALAN CAMELLIA 4, TANAH RATA 39007, CAMERON HIGHLANDS<br>LABEL: BANGUNAN JUTA VILLA,TANAH RATA<br>LAT: 4.469872<br>LONG: 101.375239<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>47.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>47</value>
+        </Data>
+        <Data name="AREA">
+          <value>PH04</value>
+        </Data>
+        <Data name="STATE">
+          <value>CAMERON HIGHLAND</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>81B RUMAH KEDAI, BANGUNAN JUTA VILLA, JALAN CAMELLIA 4, TANAH RATA 39007, CAMERON HIGHLANDS</value>
+        </Data>
+        <Data name="LABEL">
+          <value>BANGUNAN JUTA VILLA,TANAH RATA</value>
+        </Data>
+        <Data name="LAT">
+          <value>4.469872</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.375239</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.375239,4.469872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WORKSHOP</name>
+      <description><![CDATA[OBJECTID *: 4<br>NO_: 4<br>AREA: WPKL<br>STATE: WP KUALA LUMPUR<br>ADDRESS: LOT 22, JALAN 4/32A, BATU 6 ½, JALAN KEPONG, KAWASAN PERUSAHAAN KEPONG, 51200 KEPONG, KUALA LUMPUR<br>LABEL: BATU 6 ½, JALAN KEPONG<br>LAT: 3.205354<br>LONG: 101.654571<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>4.0</value>
+        </Data>
+        <Data name="NO_">
+          <value>4</value>
+        </Data>
+        <Data name="AREA">
+          <value>WPKL</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP KUALA LUMPUR</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LOT 22, JALAN 4/32A, BATU 6 ½, JALAN KEPONG, KAWASAN PERUSAHAAN KEPONG, 51200 KEPONG, KUALA LUMPUR</value>
+        </Data>
+        <Data name="LABEL">
+          <value>BATU 6 ½, JALAN KEPONG</value>
+        </Data>
+        <Data name="LAT">
+          <value>3.205354</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.654571</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.654571,3.205354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[DEPOT & WORKSHOP]]></name>
+      <description><![CDATA[OBJECTID *: 49<br>NO_: <Null><br>AREA: WPPJ<br>STATE: WP PUTRAJAYA<br>ADDRESS: LEBUH GEMILANG PRECINT 15, PUTRAJAYA<br>LABEL: DEPOH P5<br>LAT: 2.886583<br>LONG: 101.686671<br>Shape *: Point]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="OBJECTID *">
+          <value>49.0</value>
+        </Data>
+        <Data name="NO_">
+          <value><![CDATA[<Null>]]></value>
+        </Data>
+        <Data name="AREA">
+          <value>WPPJ</value>
+        </Data>
+        <Data name="STATE">
+          <value>WP PUTRAJAYA</value>
+        </Data>
+        <Data name="ADDRESS">
+          <value>LEBUH GEMILANG PRECINT 15, PUTRAJAYA</value>
+        </Data>
+        <Data name="LABEL">
+          <value>DEPOH P5</value>
+        </Data>
+        <Data name="LAT">
+          <value>2.886583</value>
+        </Data>
+        <Data name="LONG">
+          <value>101.686671</value>
+        </Data>
+        <Data name="Shape *">
+          <value>Point</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          101.686671,2.886583,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
